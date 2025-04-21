@@ -1,6 +1,6 @@
-#Mixed Messages
+# Mixed Messages
 
-##What is this project about?
+## What is this project about?
 
 This project will display:
 
@@ -11,6 +11,11 @@ This project will display:
 everytime the user refresh the page or clicks the button "generate".
 
 
-##How this works?
+## Technology used
 
-The script uses arrays to store multiple jokes and quotes. There is an objects wich collects all of that.
+In this project we use:
+
++ Arrays
++ Modules
++ Traversing and modifying DOM
+
