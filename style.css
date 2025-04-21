@@ -25,9 +25,17 @@ p{
     font-size: 18px;
 }
 
+span{
+    font-size: 20px;
+    color: purple;
+    font-weight: 700;
+}
+
+h1, h3{
+    color: purple;
+}
 
 .message{
-    background-color: rosybrown;
     max-width: 1000px;
     margin: 200px auto;
     display: flex;
