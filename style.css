@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: sans-serif;
+}
+
+
+h1{
+    font-size: 36px;
+}
+
+
+h3{
+    font-size: 24px;
+}
+
+
+p{
+    font-size: 18px;
+}
+
+
+.message{
+    background-color: rosybrown;
+    max-width: 1000px;
+    margin: 200px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+}
+
+
+#quote-box{
+    margin-bottom: 30px;
+}
+
+
+#num-box, #joke-box, #quote-box{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border-top: 2px solid #000;
+    font-size: 18px;
+    padding-top: 10px;
+}
